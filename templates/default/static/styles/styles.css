@@ -454,3 +454,11 @@ table.params code {
 #sdk_info_panel p {
     margin: 2px 0;
 }
+
+/**********************
+* Filter Input
+***********************/
+#filter-input button {
+	right:0;
+	top:3px;
+}
